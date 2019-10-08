@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/login-hooks/static/css/main.c667baff.chunk.css",
+    "main.js": "/login-hooks/static/js/main.d985722b.chunk.js",
+    "main.js.map": "/login-hooks/static/js/main.d985722b.chunk.js.map",
+    "runtime~main.js": "/login-hooks/static/js/runtime~main.c35a2273.js",
+    "runtime~main.js.map": "/login-hooks/static/js/runtime~main.c35a2273.js.map",
+    "static/js/2.2220eabb.chunk.js": "/login-hooks/static/js/2.2220eabb.chunk.js",
+    "static/js/2.2220eabb.chunk.js.map": "/login-hooks/static/js/2.2220eabb.chunk.js.map",
+    "index.html": "/login-hooks/index.html",
+    "precache-manifest.0a9cebd487e8de55cae61e026b627283.js": "/login-hooks/precache-manifest.0a9cebd487e8de55cae61e026b627283.js",
+    "service-worker.js": "/login-hooks/service-worker.js",
+    "static/css/main.c667baff.chunk.css.map": "/login-hooks/static/css/main.c667baff.chunk.css.map",
+    "static/media/image1.jpg": "/login-hooks/static/media/image1.3a6b1d6e.jpg",
+    "static/media/image2.jpg": "/login-hooks/static/media/image2.1d0639a4.jpg",
+    "static/media/image3.jpg": "/login-hooks/static/media/image3.ab2d9345.jpg",
+    "static/media/image4.jpg": "/login-hooks/static/media/image4.27083cfc.jpg"
+  }
+}
